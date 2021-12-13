@@ -1,0 +1,21 @@
+.Meaning h3 {
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: bold;
+  background-color: rgb(204, 225, 253);
+}
+
+.Meaning .example {
+  color: #70757a;
+  font-style: italic;
+  margin-top: 10px;
+}
+#definition:first-letter {
+  text-transform: capitalize;
+}
+#definition {
+  font-size: 15px;
+}
+.Meaning #definition {
+  font-size: 14px;
+}
